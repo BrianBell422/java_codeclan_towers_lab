@@ -11,7 +11,7 @@ public class HotelTest {
 
     Hotel hotel;
     Bedroom room, room2, room3;
-    Guest guest
+    Guest guest;
 
     @Before
     public void before() {
